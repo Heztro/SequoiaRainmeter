@@ -6,6 +6,9 @@
   Inspired by Monterey Rainmeter and Big Sur for Rainmeter
 </div>
 
+### What's planned?
+
+I mostly plan to make the widgets that already exist from MacOS Monterey a lot more stable and fix formatting issues. I plan to rework the UI and give a lot mroe options to users for better customizability as well as adding a few more widgets.
 ## Get started
 
 1. Install [Rainmeter](https://www.rainmeter.net/)
