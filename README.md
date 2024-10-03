@@ -1,25 +1,15 @@
 <img src="@Resources/Images/Banners/header.png"  />
 
 <div align="center">
-  A MacOS style widget pack for Windows
+  A MacOS Sequoia style widget pack for Windows.
   
-  Inspired by [Big Sur for Rainmeter](https://www.deviantart.com/fediafedia/art/Big-Sur-RC1-for-Rainmeter-846882462)
+  Inspired by Monterey Rainmeter and Big Sur for Rainmeter
 </div>
 
 ## Get started
 
 1. Install [Rainmeter](https://www.rainmeter.net/)
-2. Get our [latest release](https://github.com/creewick/MontereyRainmeter/releases)
-3. Run `Monterey.rmskin`
-
-## Wiki
-
-### [User guide](https://github.com/creewick/MontereyRainmeter/wiki/User-guide)
-### [Performance Index](https://github.com/creewick/MontereyRainmeter/wiki/Performance-Index)
-### [Documentation](https://github.com/creewick/MontereyRainmeter/wiki/Documentation)
-  
-
-## What will you get
+2. Get our latest release (not out yet)
 
 ### Widgets
 
@@ -85,11 +75,5 @@ So far we support 4 languages
 | [ikarus1969](https://github.com/ikarus1969) | German translation |
 | [ActiveColor](https://deviantart.com/activecolors) | helped with persisting settings, code review |
 | [kalukal](https://www.deviantart.com/kalukal) | Unlock animation idea |
-
-## Works good with
-* [Centered taskbar icons - TaskbarX](https://chrisandriessen.nl/taskbarx)
-* [MacOS menu bar - Droptop Four](https://github.com/Droptop-Four)
-* [Rounded screen corners](https://forum.rainmeter.net/viewtopic.php?t=25780#p201917)
-* [MacOS dock and menu bar - MyDockFinder](https://store.steampowered.com/app/1787090/MyDockFinder)
 
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Лицензия Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
